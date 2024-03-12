@@ -80,7 +80,7 @@ History mobile pages
 ![History](Pictures/history-mobile.png)
 <br>
 Calendar mobile page
-![Calendar](Pictures/calendar-mobile.png)
+![Calendar](Pictures/Calendar-mobile.png)
 <br>
 Price List mobile page
 ![Price List](Pictures/price_list-mobile.png)
