@@ -103,7 +103,7 @@ Add Client mobile page
 ## Examples
 (Now, the car is not added manually but through a VIN decoder API.)
 
-[overview](https://vimeo.com/905734189?share=copy)
+[overview](https://vimeo.com/922671102?share=copy)
 
 ## Contributing
 
