@@ -34,10 +34,10 @@ The Frontend is a simple interface with basic information, that provides some of
     - Docker
 
 ## Backend
-- this application allows us to register new Users, Every new user receives a welcome email.  The first registered account will have Admin rights.  This role lets us create new Users and Admins, has access to information about  Users and delete other accounts.
+- This application allows us to register new Users, Every new user receives a welcome email.  The first registered account will have Admin rights.  This role lets us create new Users and Admins, has access to information about  Users and delete other accounts.
 A standard User only has access to his customers.
 
-- this application allows us to add customers, their cars, which are decoded based on the VIN number using an external API and the car repair history of these cars. 
+- This application allows us to add customers, their cars, which are decoded based on the VIN number using an external API and the car repair history of these cars. 
 Additionally, the application allows us to schedule appointments, repairs and other events.
 We can enter our own fees for a given service. 
 
@@ -45,47 +45,59 @@ We can enter our own fees for a given service.
 - This application has exception handler.
 - Jwt tokens are used for user authentication.  
 
-##Frontend
+## Frontend
 - For demonstration purpose only.
 
-##Database
+## Database
 ![ERD](DiagramERD.png)
 
 ## Usage
-Login page 
+Login page
+<br> 
 ![login](Pictures/login.png)
 <br>
 Client page 
+<br> 
 ![Client](Pictures/Client.png)
 <br>
 History page
+<br> 
 ![History](Pictures/History.png)
 <br>
 Calendar page
+<br> 
 ![Calendar](Pictures/Calendar.png)
 <br>
 Price List page
+<br> 
 ![Price List](Pictures/Price%20list.png)
 <br>
 Add Client page
+<br> 
 ![Add Client](Pictures/Add%20Client.png)
 <br>
 Login mobile page 
+<br> 
 ![Login](Pictures/login-mobile.png)
 <br>
 Client mobile page 
+<br> 
 ![Client](Pictures/clientt-mobile.png)
 <br>
 History mobile pages
+<br> 
 ![History](Pictures/history-mobile.png)
 <br>
 Calendar mobile page
+<br> 
 ![Calendar](Pictures/Calendar-mobile.png)
 <br>
 Price List mobile page
+<br> 
 ![Price List](Pictures/price_list-mobile.png)
 <br>
 Add Client mobile page
+<br> 
 ![Add Client](Pictures/add-client-mobile.png)
 <br>
 ## Examples
